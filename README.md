@@ -23,9 +23,10 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://codepapa360.github.io/huddle-landing-page-with-alternating-feature-blocks-master-solution/
 <br>
-- Solution URL: 
+
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-alternating-feature-blocks-h9Nuq9IXuG
 
 ## My process
 
