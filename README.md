@@ -11,6 +11,13 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Links
+
+- Live Site URL: https://codepapa360.github.io/huddle-landing-page-with-alternating-feature-blocks-master-solution/
+<br>
+
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-alternating-feature-blocks-h9Nuq9IXuG
+
 ### Screenshot
 
 #### Desktop preview
@@ -20,13 +27,6 @@ Users should be able to:
 #### Mobile preview 
 
 <p><img align="center" width="30%" src="design/Mobile-preview.png"/></p>
-
-### Links
-
-- Live Site URL: https://codepapa360.github.io/huddle-landing-page-with-alternating-feature-blocks-master-solution/
-<br>
-
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-alternating-feature-blocks-h9Nuq9IXuG
 
 ## My process
 
